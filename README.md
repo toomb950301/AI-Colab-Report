@@ -110,3 +110,5 @@ Run successfully!
 - 找不到 Python 檔案：
   檢查檔案是否上傳、檔名是否正確、
   目前工作目錄是否為 test。
+<img width="1905" height="898" alt="image" src="https://github.com/user-attachments/assets/ba7d4efa-eaa3-4c4d-8c8d-95b0cbab824d" />
+
